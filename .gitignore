@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# build files
+Debug/
+x64/
+x84/
+bin/
+obj/
+.vs/
+packages/
